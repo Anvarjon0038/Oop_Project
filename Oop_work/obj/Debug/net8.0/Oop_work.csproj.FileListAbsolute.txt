@@ -1,0 +1,15 @@
+C:\Users\Anvar\RiderProjects\Oop_work\Oop_work\bin\Debug\net8.0\Oop_work.exe
+C:\Users\Anvar\RiderProjects\Oop_work\Oop_work\bin\Debug\net8.0\Oop_work.deps.json
+C:\Users\Anvar\RiderProjects\Oop_work\Oop_work\bin\Debug\net8.0\Oop_work.runtimeconfig.json
+C:\Users\Anvar\RiderProjects\Oop_work\Oop_work\bin\Debug\net8.0\Oop_work.dll
+C:\Users\Anvar\RiderProjects\Oop_work\Oop_work\bin\Debug\net8.0\Oop_work.pdb
+C:\Users\Anvar\RiderProjects\Oop_work\Oop_work\obj\Debug\net8.0\Oop_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anvar\RiderProjects\Oop_work\Oop_work\obj\Debug\net8.0\Oop_work.AssemblyInfoInputs.cache
+C:\Users\Anvar\RiderProjects\Oop_work\Oop_work\obj\Debug\net8.0\Oop_work.AssemblyInfo.cs
+C:\Users\Anvar\RiderProjects\Oop_work\Oop_work\obj\Debug\net8.0\Oop_work.csproj.CoreCompileInputs.cache
+C:\Users\Anvar\RiderProjects\Oop_work\Oop_work\obj\Debug\net8.0\Oop_work.sourcelink.json
+C:\Users\Anvar\RiderProjects\Oop_work\Oop_work\obj\Debug\net8.0\Oop_work.dll
+C:\Users\Anvar\RiderProjects\Oop_work\Oop_work\obj\Debug\net8.0\refint\Oop_work.dll
+C:\Users\Anvar\RiderProjects\Oop_work\Oop_work\obj\Debug\net8.0\Oop_work.pdb
+C:\Users\Anvar\RiderProjects\Oop_work\Oop_work\obj\Debug\net8.0\Oop_work.genruntimeconfig.cache
+C:\Users\Anvar\RiderProjects\Oop_work\Oop_work\obj\Debug\net8.0\ref\Oop_work.dll

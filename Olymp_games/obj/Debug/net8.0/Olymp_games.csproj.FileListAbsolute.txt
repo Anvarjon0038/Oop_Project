@@ -1,0 +1,15 @@
+C:\Users\Anvar\RiderProjects\Oop_work\Olymp_games\bin\Debug\net8.0\Olymp_games.exe
+C:\Users\Anvar\RiderProjects\Oop_work\Olymp_games\bin\Debug\net8.0\Olymp_games.deps.json
+C:\Users\Anvar\RiderProjects\Oop_work\Olymp_games\bin\Debug\net8.0\Olymp_games.runtimeconfig.json
+C:\Users\Anvar\RiderProjects\Oop_work\Olymp_games\bin\Debug\net8.0\Olymp_games.dll
+C:\Users\Anvar\RiderProjects\Oop_work\Olymp_games\bin\Debug\net8.0\Olymp_games.pdb
+C:\Users\Anvar\RiderProjects\Oop_work\Olymp_games\obj\Debug\net8.0\Olymp_games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anvar\RiderProjects\Oop_work\Olymp_games\obj\Debug\net8.0\Olymp_games.AssemblyInfoInputs.cache
+C:\Users\Anvar\RiderProjects\Oop_work\Olymp_games\obj\Debug\net8.0\Olymp_games.AssemblyInfo.cs
+C:\Users\Anvar\RiderProjects\Oop_work\Olymp_games\obj\Debug\net8.0\Olymp_games.csproj.CoreCompileInputs.cache
+C:\Users\Anvar\RiderProjects\Oop_work\Olymp_games\obj\Debug\net8.0\Olymp_games.sourcelink.json
+C:\Users\Anvar\RiderProjects\Oop_work\Olymp_games\obj\Debug\net8.0\Olymp_games.dll
+C:\Users\Anvar\RiderProjects\Oop_work\Olymp_games\obj\Debug\net8.0\refint\Olymp_games.dll
+C:\Users\Anvar\RiderProjects\Oop_work\Olymp_games\obj\Debug\net8.0\Olymp_games.pdb
+C:\Users\Anvar\RiderProjects\Oop_work\Olymp_games\obj\Debug\net8.0\Olymp_games.genruntimeconfig.cache
+C:\Users\Anvar\RiderProjects\Oop_work\Olymp_games\obj\Debug\net8.0\ref\Olymp_games.dll

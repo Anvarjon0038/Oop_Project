@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop_work", "Oop_work\Oop_work.csproj", "{9767DB78-8883-4AD2-9195-275C26981616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olymp_games", "Olymp_games\Olymp_games.csproj", "{9137BA07-155C-4FF7-A45E-9F9548BE4510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poland Notation", "Poland Notation\Poland Notation.csproj", "{DF5FAF06-7D67-497D-B391-1F00F6C1F533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9767DB78-8883-4AD2-9195-275C26981616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9767DB78-8883-4AD2-9195-275C26981616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9767DB78-8883-4AD2-9195-275C26981616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9767DB78-8883-4AD2-9195-275C26981616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9137BA07-155C-4FF7-A45E-9F9548BE4510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9137BA07-155C-4FF7-A45E-9F9548BE4510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9137BA07-155C-4FF7-A45E-9F9548BE4510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9137BA07-155C-4FF7-A45E-9F9548BE4510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF5FAF06-7D67-497D-B391-1F00F6C1F533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5FAF06-7D67-497D-B391-1F00F6C1F533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5FAF06-7D67-497D-B391-1F00F6C1F533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5FAF06-7D67-497D-B391-1F00F6C1F533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

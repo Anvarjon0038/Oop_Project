@@ -1,0 +1,5 @@
+C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\obj\Debug\net8.0\Poland Notation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\obj\Debug\net8.0\Poland Notation.AssemblyInfoInputs.cache
+C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\obj\Debug\net8.0\Poland Notation.AssemblyInfo.cs
+C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\obj\Debug\net8.0\Poland Notation.csproj.CoreCompileInputs.cache
+C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\obj\Debug\net8.0\Poland Notation.sourcelink.json
