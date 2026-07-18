@@ -6,14 +6,11 @@ public class ExpressionConverter
     {
         if(op == "+" || op == "-")
             return 1;
-
         if(op == "*" || op == "/")
             return 2;
-
         return 0;
     }
-
-
+    
     public string InfixToPostfix(string expression)
     {
         Stack<string> stack = new Stack<string>();
@@ -28,30 +25,25 @@ public class ExpressionConverter
             {
                 output.Add(token);
             }
-
             else if(token == "(")
             {
                 stack.Push(token);
             }
-
             else if(token == ")")
             {
                 while(stack.Peek() != "(")
                 {
                     output.Add(stack.Pop());
                 }
-
                 stack.Pop();
             }
 
             else
             {
-                while(stack.Count > 0 &&
-                      Priority(stack.Peek()) >= Priority(token))
+                while(stack.Count > 0 && Priority(stack.Peek()) >= Priority(token))
                 {
                     output.Add(stack.Pop());
                 }
-
                 stack.Push(token);
             }
         }
@@ -61,7 +53,6 @@ public class ExpressionConverter
         {
             output.Add(stack.Pop());
         }
-        
         return string.Join(" ", output);
     }
 }
