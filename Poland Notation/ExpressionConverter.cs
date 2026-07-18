@@ -4,47 +4,64 @@ public class ExpressionConverter
 {
     private int Priority(string op)
     {
-        if (op == "+" || op == "-") return 1;
-        if (op == "*" || op == "/") return 2;
+        if(op == "+" || op == "-")
+            return 1;
+
+        if(op == "*" || op == "/")
+            return 2;
 
         return 0;
     }
 
-    public string InfinixToPostfix(string expression)
+
+    public string InfixToPostfix(string expression)
     {
         Stack<string> stack = new Stack<string>();
         List<string> output = new List<string>();
 
-        string[] tokkens = expression.Split(' ');
+        string[] tokens = expression.Split(' ');
 
-        foreach (string token in tokkens)
+
+        foreach(string token in tokens)
         {
-            double number;
-            if (double.TryParse(token, out number))
+            if(double.TryParse(token, out _))
             {
                 output.Add(token);
             }
-            else if(token == "(")stack.Push(token);
-            else if (token == ")")
+
+            else if(token == "(")
             {
-                while (stack.Peek() != "(")
+                stack.Push(token);
+            }
+
+            else if(token == ")")
+            {
+                while(stack.Peek() != "(")
                 {
                     output.Add(stack.Pop());
-                    
                 }
+
                 stack.Pop();
             }
+
             else
             {
-                while (stack.Count > 0 && Priority(stack.Peek()) >= Priority(token))
+                while(stack.Count > 0 &&
+                      Priority(stack.Peek()) >= Priority(token))
                 {
                     output.Add(stack.Pop());
                 }
+
                 stack.Push(token);
             }
         }
-        while(stack.Count > 0)output.Add(stack.Pop());
-            
+
+
+        while(stack.Count > 0)
+        {
+            output.Add(stack.Pop());
+        }
+        
         return string.Join(" ", output);
     }
 }

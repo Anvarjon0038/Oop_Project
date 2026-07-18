@@ -1,7 +1,6 @@
 namespace Poland_Notation;
 
-public interface IExpresion
+public interface IExpression
 {
-    
-    double Evaluate(string expression);
+    double Evaluate();
 }

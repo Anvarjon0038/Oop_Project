@@ -3,3 +3,13 @@ C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\obj\Debug\net8.0\Poland No
 C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\obj\Debug\net8.0\Poland Notation.AssemblyInfo.cs
 C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\obj\Debug\net8.0\Poland Notation.csproj.CoreCompileInputs.cache
 C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\obj\Debug\net8.0\Poland Notation.sourcelink.json
+C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\bin\Debug\net8.0\Poland Notation.exe
+C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\bin\Debug\net8.0\Poland Notation.deps.json
+C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\bin\Debug\net8.0\Poland Notation.runtimeconfig.json
+C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\bin\Debug\net8.0\Poland Notation.dll
+C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\bin\Debug\net8.0\Poland Notation.pdb
+C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\obj\Debug\net8.0\Poland Notation.dll
+C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\obj\Debug\net8.0\refint\Poland Notation.dll
+C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\obj\Debug\net8.0\Poland Notation.pdb
+C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\obj\Debug\net8.0\Poland Notation.genruntimeconfig.cache
+C:\Users\Anvar\RiderProjects\Oop_work\Poland Notation\obj\Debug\net8.0\ref\Poland Notation.dll

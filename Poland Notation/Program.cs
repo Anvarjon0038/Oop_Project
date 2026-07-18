@@ -1,13 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using Poland_Notation;
-
-string infinix="( 10 + 3 ) / 4)";
-ExpressionConverter converter = new ExpressionConverter();
-string expression = converter.InfinixToPostfix(infinix);
-
-Console.WriteLine("Infix " + infinix);
+﻿using Poland_Notation;
 
 
+string expression = "( 10 + 3 ) / 4";
 
 
+Calculator calculator = new Calculator();
+
+
+double result = calculator.Calculate(expression);
+
+
+Console.WriteLine("Result: " + result);

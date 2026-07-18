@@ -1,9 +1,9 @@
 namespace Poland_Notation;
 
-public class Expression : IExpresion
+public class Expression : IExpression
 {
     private string expression;
-    
+
     public Expression(string expression)
     {
         this.expression = expression;
@@ -12,25 +12,41 @@ public class Expression : IExpresion
     public double Evaluate()
     {
         Stack<double> stack = new Stack<double>();
+
         string[] tokens = expression.Split(' ');
 
         foreach (string token in tokens)
         {
-            double number;
-            if (double.TryParse(token, out number))
+            if (double.TryParse(token, out double number))
             {
                 stack.Push(number);
             }
             else
             {
-                double b=stack.Pop();
-                double a=stack.Pop();
-                if(token == "+")stack.Push(a+b);
-                else if (token=="-")stack.Push(a-b);
-                else if(token=="*")stack.Push(a*b);
-                else stack.Push(a/b);
+                double b = stack.Pop();
+                double a = stack.Pop();
+
+                switch(token)
+                {
+                    case "+":
+                        stack.Push(a + b);
+                        break;
+
+                    case "-":
+                        stack.Push(a - b);
+                        break;
+
+                    case "*":
+                        stack.Push(a * b);
+                        break;
+
+                    case "/":
+                        stack.Push(a / b);
+                        break;
+                }
             }
         }
+
         return stack.Pop();
     }
 }
