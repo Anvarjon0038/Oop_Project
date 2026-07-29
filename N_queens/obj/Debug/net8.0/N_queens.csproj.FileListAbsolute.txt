@@ -1,0 +1,15 @@
+C:\Users\Anvar\RiderProjects\Oop_work\N_queens\bin\Debug\net8.0\N_queens.exe
+C:\Users\Anvar\RiderProjects\Oop_work\N_queens\bin\Debug\net8.0\N_queens.deps.json
+C:\Users\Anvar\RiderProjects\Oop_work\N_queens\bin\Debug\net8.0\N_queens.runtimeconfig.json
+C:\Users\Anvar\RiderProjects\Oop_work\N_queens\bin\Debug\net8.0\N_queens.dll
+C:\Users\Anvar\RiderProjects\Oop_work\N_queens\bin\Debug\net8.0\N_queens.pdb
+C:\Users\Anvar\RiderProjects\Oop_work\N_queens\obj\Debug\net8.0\N_queens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anvar\RiderProjects\Oop_work\N_queens\obj\Debug\net8.0\N_queens.AssemblyInfoInputs.cache
+C:\Users\Anvar\RiderProjects\Oop_work\N_queens\obj\Debug\net8.0\N_queens.AssemblyInfo.cs
+C:\Users\Anvar\RiderProjects\Oop_work\N_queens\obj\Debug\net8.0\N_queens.csproj.CoreCompileInputs.cache
+C:\Users\Anvar\RiderProjects\Oop_work\N_queens\obj\Debug\net8.0\N_queens.sourcelink.json
+C:\Users\Anvar\RiderProjects\Oop_work\N_queens\obj\Debug\net8.0\N_queens.dll
+C:\Users\Anvar\RiderProjects\Oop_work\N_queens\obj\Debug\net8.0\refint\N_queens.dll
+C:\Users\Anvar\RiderProjects\Oop_work\N_queens\obj\Debug\net8.0\N_queens.pdb
+C:\Users\Anvar\RiderProjects\Oop_work\N_queens\obj\Debug\net8.0\N_queens.genruntimeconfig.cache
+C:\Users\Anvar\RiderProjects\Oop_work\N_queens\obj\Debug\net8.0\ref\N_queens.dll

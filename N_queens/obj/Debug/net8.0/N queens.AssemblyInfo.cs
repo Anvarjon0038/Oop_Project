@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Poland Notation")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("N queens")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cb1194d950142f8a8185166f26aef172fe012ea")]
-[assembly: System.Reflection.AssemblyProductAttribute("Poland Notation")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Poland Notation")]
+[assembly: System.Reflection.AssemblyProductAttribute("N queens")]
+[assembly: System.Reflection.AssemblyTitleAttribute("N queens")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
